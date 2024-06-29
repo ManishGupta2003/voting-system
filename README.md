@@ -1,7 +1,9 @@
-## Student Voting System
+## Student Voting System 
+run main file the Admin username =Admin and password =admin
 Student Voting System is a simple console-based project created for student elections, in which the students can take part in voting for their favorite candidates. The authority, namely the admin, has the capability to manage the election process, for example starting out new elections, banning user IDs, and removing illegal votes from the system.
 ## Features
 - **Student Panel**:
+  - ElectionYear+BranchCode+RollNo=14  for example 2024btcit00001 here 2024 is year btcit branchcode and 00001 is roll no 
   - Spend your unique user identification to log in to your account.
   - Give votes to the candidates that are available.
   - To avoid duplicate voting and the detection of the banned user IDs will be done by the different methods you have to use.
